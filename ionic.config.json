@@ -1,0 +1,7 @@
+{
+  "name": "webviewcapacitor",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
